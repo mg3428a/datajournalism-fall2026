@@ -1,5 +1,5 @@
 # COMM 260, fall 2026 American University
 
-Sean McMinn
+Megan Greaves
 
-*I hope to learn how to intergrate data more effectively
+*I hope to learn how to intergrate data more effectively.*
