@@ -2,4 +2,4 @@
 
 Sean McMinn
 
-* I hope to learn how to intergrate data more effectively
+*I hope to learn how to intergrate data more effectively
