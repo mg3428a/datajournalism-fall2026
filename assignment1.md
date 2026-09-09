@@ -11,3 +11,10 @@ An affidavit of service is the court's main evidence that a tenant was properly 
 The data that may be available and relevant to this is D.C. Superior Court records and DC courts annual reports to compare what happens to tenants and process servers when problems arise. The D.C. code also has a penalty of perjury that results in a misdemeanor if acting with intent. The office of the Tenant Advocate is another place to gather data.
 While these cases focus on a past timeline, this is timely due to many tenants still being evicted in droves presently. With the passing of the RENTAL act in December 2025, there have been staggering numbers of eviction filings in D.C.
 I would consult tenants, attorneys, lawyers, and advocates. I would aim to understand multiple sides of the story and give benefit of the doubt since an important distinction is an accidental mistake versus compiling intentional false information.
+# Critique
+The issue was immediately identifiable. 5. The issue was unlawful tenant evictions citing improper notification. It was also in the headline.
+There was some data visualization. 3. They had a time-lapsed youtube video showing affidavits and a couple photos showing court documents of attempted summons. The second piece of data visualization was lacking and there wasn't substantial data besides the video. The most efficient way to navigate was by watching the youtube video. I would've added a comparative chart or a line chart.
+The data seemed mostly accurate even pointing out discrepancies in others data. 4. Most data was linked with a hyperlink. they also did a good job explaining information like "sewer service". The only time I questioned data was when they surveyed random pools where it is hard to get verification.
+Everything looked very cohesive and nothing in particular stood out except hyperlinks in blue. 5.
+There wasn't much use of color which seems normal for the story. 5.
+I think the graphics were creative and humanizing. 5. They show that people in real life were affected by this giving and all graphics were related.
