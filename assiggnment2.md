@@ -11,7 +11,7 @@ The U.S Fish and Wildlife Service created this dataset as part of their Environm
 The major threats facing each species, such as habitat loss, hunting, pollution, invasive species, or climate change helps an audience understand whether endangered species share common threats and whether certain human or environmental factors appear repeatedly across different species. This information is useful because the original dataset tells readers which species are endangered and when they were listed, but it does not clearly tell them why those species remain at risk. Repeatedly, human disturbance contributes to the endangerment of many of these species whether directly or indirectly.
 
 
-[Second data link](https://www.icloud.com/numbers/0abavBu-agj30UKQ7n2aaB5Vg)
+[Second data link]([https://www.icloud.com/numbers/0abavBu-agj30UKQ7n2aaB5Vg](https://docs.google.com/spreadsheets/d/1tNThWw-IkIGh9uRbH_T2cnCWrgxKjtYRGn24d5D3e-U/edit?usp=sharing)
 
 
 Some endangered species face several significant threats rather than one single cause. When a source identified multiple major threats, I selected the threats that appeared to be most prominently identified. Sometimes I would pick three instead of the several listed. Some animals/flora were also difficult to find information for since they are so elusive. 
