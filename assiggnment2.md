@@ -15,3 +15,6 @@ The major threats facing each species, such as habitat loss, hunting, pollution,
 
 
 Some endangered species face several significant threats rather than one single cause. When a source identified multiple major threats, I selected the threats that appeared to be most prominently identified. Sometimes I would pick three instead of the several listed. Some animals/flora were also difficult to find information for since they are so elusive. 
+
+
+I did not use AI in this assignment.
