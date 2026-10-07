@@ -35,5 +35,7 @@ Story Links:
 * [Story 1](https://www.advocate.com/news/crime/dc-antigay-hate-crime)
 * [Story 2](https://www.dcnewsnow.com/news/local-news/washington-dc/dc-police-investigating-potential-hate-crime-after-person-assaulted-in-logan-circle/)
 * [Story 3](https://www.dcnewsnow.com/news/local-news/washington-dc/dc-man-charged-with-hate-crimes-first-degree-murder-in-deadly-july-shooting/)
-There are many stories that revolve around hate crimes in the DC area.
+
+  
+There are many stories that revolve around hate crimes in the DC area. I did not use AI in my assignment. I did look up on youtube tutorials for pivot tables.
 
