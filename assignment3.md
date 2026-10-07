@@ -31,6 +31,8 @@ So far I have compiled a couple different sources related to hate crimes in the 
 
 
 So far I have only found sources and data. No other work has been done yet.
+
+
 Story Links:
 * [Story 1](https://www.advocate.com/news/crime/dc-antigay-hate-crime)
 * [Story 2](https://www.dcnewsnow.com/news/local-news/washington-dc/dc-police-investigating-potential-hate-crime-after-person-assaulted-in-logan-circle/)
