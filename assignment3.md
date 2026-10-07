@@ -25,9 +25,9 @@ The group that received the most hate bias is Black people and most assaults occ
 
 # Story Research
 So far I have compiled a couple different sources related to hate crimes in the DC area. These three sources are for data. They are trustworthy sources. One comes from DC's open data, another from FBI, and another one from the metropolitan police.
-*[Link 1](https://opendata.dc.gov/datasets/452087bce8c749998cee5598bc73bbf2_7/explore?filters=eyJEQVRFX09GX09GRkVOU0UiOlsxNTkwNDE2NzE2MzQ3LjU3LDE3ODc3MDI0MDAwMDBdfQ%3D%3D&location=38.905151%2C-77.031539%2C15)
-*[Link 2](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime)
-*[Link 3](https://mpdc.dc.gov/hatecrimes)
+* [Link 1](https://opendata.dc.gov/datasets/452087bce8c749998cee5598bc73bbf2_7/explore?filters=eyJEQVRFX09GX09GRkVOU0UiOlsxNTkwNDE2NzE2MzQ3LjU3LDE3ODc3MDI0MDAwMDBdfQ%3D%3D&location=38.905151%2C-77.031539%2C15)
+* [Link 2](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime)
+* [Link 3](https://mpdc.dc.gov/hatecrimes)
 
 
 So far I have only found sources and data. No other work has been done yet.
