@@ -14,4 +14,13 @@ Changes Made:
 [Original Chart 2](https://makeovermonday.vercel.app/dataset/bears-will-be-boys)
 
 
-[Revised Data Set](
+[Revised Data Set](https://github.com/mg3428a/datajournalism-fall2026/raw/refs/heads/main/IMG_2852.HEIC)
+
+
+Changed I Made:
+* Changed visual to pie chart to show proportions (Percentages added up to 100)
+* Removed animals that took away from numerical data
+* Added percentages and labels
+
+
+I used AI to help me link my new data sets.
