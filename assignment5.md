@@ -1,5 +1,21 @@
 [Extreme heat is one of the deadliest consequences of climate change](https://www.latimes.com/projects/california-extreme-heat-deaths-show-climate-change-risks/)
 
 
-Lede: The lead is an anecdotal lede describing the deaths of both Jorge Valerio-Santiago and Anne Gacambi Methu whom unfortunately fell victim to the heat waves of Southern California. It is effective lede showing the consequences
+Lede: The lead is an anecdotal lede describing the deaths of both Jorge Valerio-Santiago and Anne Gacambi Methu whom unfortunately fell victim to the heat waves of Southern California. It is effective lede showing the consequences directly tied to global warming and climate change. Rather than it starting off with statistics it allows readers to connect on an emotional level as well as establishing the story's central argument being that extreme heat is a serious public health threat that California is failing to accurately account for.
 
+
+The data: The LA times conducted an analysis of mortality between 2010-2019 and concluded that the true death toll is probably six times higher than the 599 deaths that were recorded due to exposure. Analysis estimates that extreme heat caused about 3,900 deaths. One thing that could've been expanded on more was how accurately the reporters could attribute excess deaths to extreme heat. Someone who died on an extremely hot day may have had an underlying medical condition and while the reporters explain that heat can worsen existing conditions, I would have liked to know more about how the analysis accounted for other factors that could have influenced mortality rates.
+
+
+Sources: There were interviews from ordinary people, public officials, researchers and experts. For example, Jorge Valerio discussed his father's death after working outside in dangerous temperatures. These sources strengthen the story because they give the data an emotional and human aspect. The families' experiences demonstrate that these statistics represent real people, not just numbers. The government sources also add an important perspective. Gov. Gavin Newsom’s administration acknowledges that the state has not done enough to address extreme heat, but Newsom’s senior climate advisor, Lauren Sanchez, points to a lack of funding and urgency prevented the state from carrying out many of its 2013 recommendations. One particularly interesting point is that a spokesperson for the California Department of Public Health did not dispute the Times' findings but explained that the newspaper's approach measures a different outcome than official death certificate counts. 
+
+Story Structure: I believe it is martini glass. It begins broadly with a anecdotal lede that established its main argument. It then transitioned into the investigation of the data, government inaction, interviews, and the consequences of extreme heat. It then opens back up to discussion and real world impacts. There are multiple personal accounts are interwoven with the statistical findings to show how extreme heat affects people differently depending on their circumstances. The final paragraphs describe how Jorge Valerio-Santiago's death changed the way his son approaches workplace safety.
+
+Numbers: For the most part, I thought the reporters did a good job making the numbers understandable. One of the most effective comparisons was explaining that California officially recorded 599 heat-related deaths, while the Times' analysis estimated approximately 3,900. Comparing these figures makes the severity of global warming immediately understandable. Readers do not have to interpret a complicated statistical model to recognize the difference.
+
+
+Data Visualization: The data visualization was necessary and easy to understand. I appreciated that it wasn't too overwhelming and was fairly simple to understand. They helped to understand what was being conveyed and the distinction that the extreme heat did not affect every community equally.
+
+Methods: The reporters address the limitations of the data in the "About this story" section at the bottom of the article. It stated it consulted analysis with Logan Arnold, a health data analyst. The Times’ analysis was reviewed by four independent experts in epidemiology and bioclimatology. It gives readers an opportunity to understand how the reporters reached their conclusions and evaluate the credibility of the analysis. 
+
+There was nothing I would have done differently.
