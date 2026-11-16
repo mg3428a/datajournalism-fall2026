@@ -18,4 +18,4 @@ Data Visualization: The data visualization was necessary and easy to understand.
 
 Methods: The reporters address the limitations of the data in the "About this story" section at the bottom of the article. It stated it consulted analysis with Logan Arnold, a health data analyst. The Times’ analysis was reviewed by four independent experts in epidemiology and bioclimatology. It gives readers an opportunity to understand how the reporters reached their conclusions and evaluate the credibility of the analysis. 
 
-There was nothing I would have done differently.
+There was nothing I would have done differently. No AI usage.
